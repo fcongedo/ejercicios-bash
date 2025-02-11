@@ -18,7 +18,7 @@ Bienvenido a **Ejercicios Bash**, un repositorio con scripts organizados por niv
 Para clonar este repositorio, ejecuta el siguiente comando en tu terminal:
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/fcongedo/ejercicios-bash.git
 ```
 
 ---
